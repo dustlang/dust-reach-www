@@ -1,2 +1,2 @@
-# rust-reach-www
+# dust-reach-www
 the website for the rust reach program
